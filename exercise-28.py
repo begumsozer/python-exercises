@@ -31,6 +31,7 @@ def control(row,user_row,colon,user_colon):
  else:
    return(False)
 
+  
 matrix= [["o","o","o","o","o"],
          ["o","o","o","o","o"],
          ["o","o","o","o","o"],
